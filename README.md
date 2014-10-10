@@ -1,4 +1,4 @@
 YZCGPointExtension
 ==================
 
-More CGPoint functions to help you with manipulating CGPoint
+A library of CGPoint functions to help you easily manipulate CGPoint.
