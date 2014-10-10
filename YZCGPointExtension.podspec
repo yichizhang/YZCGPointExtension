@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "YZCGPointExtension"
   s.version      = "0.0.1"
-  s.summary      = "A library of code that might help your iOS development."
+  s.summary      = "A library of CGPoint functions to help you easily manipulate CGPoint."
   s.homepage     = "https://github.com/yichizhang/YZCGPointExtension"
   s.license      = { :type => 'MIT', :file => 'LICENSE' }
   s.author       = { "Yichi Zhang" => "zhang-yi-chi@hotmail.com" }
